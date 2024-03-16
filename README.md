@@ -1,9 +1,10 @@
 repository:
 
-- labelTool
-- 
+labelTool
 |- dataset
 
    |- images
+  
    |- labels
+  
 |- (.py)
